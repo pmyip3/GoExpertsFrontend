@@ -1,4 +1,7 @@
 {
+	"engines": {
+	    "node": "= 16.x"
+	},
 	"name": "goexpert",
 	"version": "0.1.0",
 	"private": true,
@@ -78,8 +81,5 @@
 		"stylelint": "^13.13.1",
 		"stylelint-config-sass-guidelines": "^8.0.0",
 		"stylelint-scss": "^3.21.0"
-	},
-	"engines": {
-	    "node": "= 16.x"
-	  }
+	}
 }
