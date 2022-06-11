@@ -78,5 +78,8 @@
 		"stylelint": "^13.13.1",
 		"stylelint-config-sass-guidelines": "^8.0.0",
 		"stylelint-scss": "^3.21.0"
-	}
+	},
+	"engines": {
+	    "node": "= 16.x"
+	  }
 }
